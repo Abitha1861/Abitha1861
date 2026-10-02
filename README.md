@@ -32,3 +32,9 @@ I'm a Software Developer with 2.5+ years of experience building Java-based appli
 
 - LinkedIn
 - Portfolio
+
+### 🚀 Projects
+
+- Regulatory Reporting System
+- DataVision
+- Audit Trail System
