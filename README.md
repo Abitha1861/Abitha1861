@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Abitha Pauline 👋
 
-<!--
-**Abitha1861/Abitha1861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with 2.5+ years of experience building Java-based applications.
 
-Here are some ideas to get you started:
+### 💻 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring MVC
+- REST APIs
+- Oracle SQL
+- PostgreSQL
+- React
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+
+### 🚀 Currently Learning
+
+- Advanced Git & GitHub
+- Data Structures & Algorithms
+- Open Source Contribution
+- Collaborative Development
+
+### 🤝 Open to
+
+- Open Source Contributions
+- Java Projects
+- Collaborative Development
+- Learning from Developers
+
+### 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
