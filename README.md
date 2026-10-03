@@ -4,7 +4,7 @@
 
 ### ☕ Java Full Stack Developer | Fintech & Banking Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+secure+banking+backends;Regulatory+Reporting+%7C+FIU+%7C+Audit+Trails;Java+%E2%80%A2+Spring+%E2%80%A2+Oracle+SQL+%E2%80%A2+Solace;Open+to+relocate+%F0%9F%8C%8D+Immediate+joiner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+secure+banking+backends;Regulatory+Reporting+%7C+FIU+%7C+Audit+Trails;Java+%E2%80%A2+Spring+%E2%80%A2+Oracle+SQL+%E2%80%A2+Solace;Available+for+Remote+%26+Contract+Work+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abitha1861&label=Profile%20Views&color=2F81F7&style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-2.5%2B%20Years-success?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
+![Remote](https://img.shields.io/badge/Open%20to-Remote%20%26%20Contract-brightgreen?style=flat-square)
 ![Location](https://img.shields.io/badge/Based%20in-Chennai%2C%20India-orange?style=flat-square)
 
 </div>
@@ -23,12 +23,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Java Full Stack Developer** with **2.5+ years** of experience engineering secure, compliance-critical backend systems for **international banks** across **Tanzania, Uganda and the wider East African market** — including tier-1 institutions like **Standard Chartered Bank**.
+I'm a **Java Full Stack Developer** with **2.5+ years** of experience engineering secure, compliance-critical backend systems for **international banks** across **Tanzania, Uganda and the wider East African market**, including tier-1 institutions like **Standard Chartered Bank**.
 
 - 🏦 I build **regulatory reporting platforms**, **FIU/AML compliance modules** and **audit trail systems**
 - ⚡ I work with **real-time data integration** using Solace messaging and tune **Oracle SQL** for high-volume production environments
 - ✈️ I've delivered **onsite** for clients in **Uganda**, handling direct client requirements in an international deployment
-- 🌍 **Open to relocating** (UAE / Europe) · ✅ **Immediate joiner**
+- 💻 **Available for remote and contract roles** · open to relocation for the right opportunity · ✅ **Immediate joiner**
 
 ---
 
@@ -67,7 +67,7 @@ I'm a **Java Full Stack Developer** with **2.5+ years** of experience engineerin
 ### Java Full Stack Developer — **HDSoft Systems Pvt. Ltd.**
 📍 Chennai, India (incl. onsite delivery in Uganda) &nbsp;|&nbsp; 🗓️ Jan 2024 – Sep 2026
 
-- 🏛️ Built and maintained **RTSIS**, a regulatory reporting platform serving **4+ international banks** — Standard Chartered, Diamond Trust Bank, Housing Finance Bank and First Housing Finance Tanzania
+- 🏛️ Built and maintained **RTSIS**, a regulatory reporting platform serving **4+ international banks**: Standard Chartered, Diamond Trust Bank, Housing Finance Bank and First Housing Finance Tanzania
 - 🔐 Designed secure **REST APIs** (Java / Spring MVC) for financial data processing and reporting to the **Bank of Tanzania (BOT)**
 - 🕵️ Engineered the **FIU (Financial Intelligence Unit)** module for compliance and transaction monitoring
 - 📡 Integrated **Solace messaging** to consume real-time financial data; validated and transformed records with **Oracle SQL**
@@ -97,7 +97,7 @@ New Prince Shri Bhavani College of Engineering & Technology, Chennai · 2019 –
 
 ## 🗣️ Languages
 
-🇬🇧 English — Fluent &nbsp;·&nbsp; 🇮🇳 Tamil — Native
+🇬🇧 English: Fluent &nbsp;·&nbsp; 🇮🇳 Tamil: Native
 
 ---
 
@@ -112,9 +112,9 @@ New Prince Shri Bhavani College of Engineering & Technology, Chennai · 2019 –
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Work Together
 
-I'm actively looking for **Java / Full Stack Developer roles** in **fintech and banking technology** — especially in the **UAE** and **Europe**.
+I'm open to **remote and contract Java / Full Stack Developer roles** in **fintech and banking technology**. I can start immediately and work across time zones.
 
 <div align="center">
 
